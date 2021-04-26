@@ -1,0 +1,9 @@
+﻿place,min,max,type,public,date,fee,resp
+,2.1,4.8,trad,TRUE,,£200.45,CT
+,,3.2,,FALSE,1/1/2017,£150.38,AS
+25,2.3,3.3,forrest,TRUE,2/1/2017,£85.07,CT
+35,2.4,,trad,,3/1/2017,,CT
+,2.1,4.8,trad,TRUE,,£200.45,CT
+12,,3.3,waldorf,FALSE,2/1/2017,£350.96,AS
+18,2.5,,forrest,,4/1/2017,,CT
+15,2.3,4.3,montessori,TRUE,2/1/2017,£85.07,CT
