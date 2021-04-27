@@ -2,9 +2,9 @@
 # Programmierung mit Python
 # Course Code: DLMDWPMP01
 
-# Visualisierung
+# Visualisierung: matplotlib, seaborn, bokeh
 
-## Matplotlib
+## matplotlib
 
 #%%
 # Bibliotheken laden
